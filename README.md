@@ -1,2 +1,4 @@
-# VDDE
-This is a repo for the VDDE project.
+# An examination of heterogeneity estimators for meta-analysis with dependent effect size estimates
+This is a repo for the VDDE project. In this study, we examine the properties and performance of the heterogeneity estimators proposed for the CE, HE, MLMA, and other working models under conditions where they may be mis-specified relative to the true dependence structure. Taking the general correlated-and-hierarchical effects model as the starting point, we present closed-form expressions for the expected values of the heterogeneity estimators, and use these expressions to develop guidance about how they can be interpreted under conditions of mis-specification.
+
+This repo contains supplementary materials of the currenty study, including a full reference list and an apeendix providing all the terms involved in the between- or within- study variance estimator derived from each working model or terms used in the expectation of the estimator under the CHE model.
